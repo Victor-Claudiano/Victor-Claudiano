@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-claudiano&label=Profile%20views&color=0e75b6&style=flat" alt="victor-claudiano" /> </p>
 
-- 👨‍💻 Alguns Projetos estão em meu portfolio [https://v0-modern-portfolio-website-mscgl7.vercel.app/](https://v0-modern-portfolio-website-mscgl7.vercel.app/)
+- 👨‍💻 Alguns Projetos estão em meu portfolio [link](https://v0-modern-portfolio-website-mscgl7.vercel.app/)
 
 - 📫 Contato **victorclaudiano@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/victorclaudiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorclaudiano" height="30" width="40" /></a>
 </p>
