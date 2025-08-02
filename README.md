@@ -20,10 +20,6 @@
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3-blue?logo=python)
-![Django](https://img.shields.io/badge/Django-success?logo=django)
-![React](https://img.shields.io/badge/React-61dafb?logo=react)
-
 
 ### 🛠️ Tecnologias & Ferramentas
 
