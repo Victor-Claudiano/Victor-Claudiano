@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=victor-claudiano&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 👨‍💻 Alguns projetos estão em meu portfólio: [**Acessar**](https://v0-modern-portfolio-website-mscgl7.vercel.app/)
+- 👨‍💻 Alguns projetos estão em meu portfólio: [**Acessar**](https://victorclaudiano.vercel.app/)
 - 📫 Contato: **victorclaudiano@gmail.com**
 
 ---
